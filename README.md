@@ -20,6 +20,7 @@ Steps of the logic:
 
 php decode.php
 
+```
 === Caesar Cipher Decoder ===
 Enter the encoded text:
 > Aopz pz aol huzdly, dlss kvul!
@@ -28,3 +29,4 @@ Enter the shift value:
 
 Decoded text:
 This is the answer, well done!
+```
